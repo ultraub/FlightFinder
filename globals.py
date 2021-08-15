@@ -1,0 +1,11 @@
+callCount=0
+pause=0
+quitVar=0
+paramDict={}
+statusVar=''
+currentDestination=''
+carriers=[]
+carriers_exclude=[]
+running=0
+runOnce=0
+PID=0
